@@ -14,7 +14,7 @@ pip install -r requirements.txt
 $ python indeed-scraper.py
 
 ```
-* You can configure scrape parameters in config.yaml
+* You can configure scraper parameters in config.yaml.
 ```
 config.yaml
 
@@ -41,7 +41,7 @@ job_type:
   fulltime, remote
 
 keywords:
-  [css, CSS, html, HTML, HTML5, CSS3, illustrator, Illustrator, photoshop, Photoshop]
+  [css, CSS, html, HTML, HTML5, CSS3, illustrator, photoshop, python,  django, flask ]
 
 output:
   data/indeed_jobs.csv
